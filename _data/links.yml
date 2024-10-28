@@ -1,9 +1,12 @@
+- text: My work
+  url: https://www.instagram.com/jamienelson.gfx
+  icon: brush
 - text: Instagram
   url: https://www.instagram.com/jme.nelsn
   icon: instagram
-- text: Art Instagram
-  url: https://www.instagram.com/jamienelson.gfx
+- text: TikTok
+  url: https://www.instagram.com/jme.nelsn
+  icon: tiktok
+- text: Benches of Melbourne
+  url: https://www.instagram.com/a.good.sit
   icon: instagram
-- text: Facebook
-  url: https://www.facebook.com/jamienelson.gfx
-  icon: facebook
