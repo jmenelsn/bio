@@ -1,7 +1,7 @@
 ---
 avatar-name: "Jamie Nelson"
-avatar-url: "https://files.ja.mienelson.com/api/public/dl/nd0__6_7?inline=true"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
+avatar-url: "assets/img/avatar.jpg"
+avatar-alt-text: "the initials JN in a lil box"
 interest-prefix: ""
 ---
 
