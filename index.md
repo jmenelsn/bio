@@ -4,5 +4,4 @@ avatar-url: "assets/img/avatar.jpg"
 avatar-alt-text: "the initials JN in a lil box"
 interest-prefix: ""
 ---
-This would be so much easier<br>
-if I wasn't colourblind
+Maker of things for stages and screens
